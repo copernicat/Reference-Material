@@ -83,7 +83,7 @@ Open source licenses are a grant by the copyright holder giving other people the
 
 ## What is granted by licenses (patents)
 
-With some open source licenses, the copyright holder of open source explicitly grants others the right to freely use any patents that are practiced by the software and owned by the copyright holder. Not every open source license explicitly grants such a patent license. Examples of licenses that include such explicit patent grants are the Apache license, and the GNU General Public License (GPL) version 3.
+Some licenses contain express patent licenses. Examples of licenses that include such explicit patent grants are the Apache license, and the GNU General Public License (GPL) version 3. It is important review the specific license terms to understand the rights being granted.
 
 # What you need to do to receive the benefits of open source
 
