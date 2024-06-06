@@ -97,8 +97,6 @@ Almost all open source licenses define the following:
 
 In the following sections, a distributor can mean either an individual or a legal entity such as a company.
 
-Anyone who complies with the conditions of the license may freely use and distribute the software.
-
 However, the conditions differ from license to license. Some licenses require only that a license notice and a copyright notice be included in the source publication. Other licenses require the disclosure of the source code and a written offer to obtain it. Some licenses have terms that affect what other open source the software may be used in combination with. A distributor is required to comply with all of the conditions defined in the license.
 
 There are several ways to distribute software. One way is to sell a product that incorporates the open source. Another way is by providing a site from which the software may be downloaded. When an item that contains open source is distributed, the entity that is distributing it is required to comply with the license for that open source.
