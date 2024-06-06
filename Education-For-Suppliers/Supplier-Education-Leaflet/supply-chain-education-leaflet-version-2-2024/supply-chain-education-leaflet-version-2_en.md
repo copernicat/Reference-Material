@@ -79,7 +79,7 @@ Not all software is covered by copyright. If you need to judge whether a particu
 
 ## What is granted by licenses (copyright)
 
-Open source licenses are a grant by the copyright holder giving other people the right to use or distribute software. This license grant occurs without direct communication between the copyright holder and the user, but this right-of-use is only granted if the user adheres with conditions provided by the copyright holder in the license. When a user fails to comply with these license conditions, serious legal issues arise.
+Open source licenses grant copyright permissions, for example, permission to copy, create a derivtive work, or distribute software. This license grant occurs without direct communication between the copyright holder and the user, but this right-of-use is only granted if the user adheres with conditions provided by the copyright holder in the license. When a user fails to comply with these license conditions, serious legal issues arise.
 
 ## What is granted by licenses (patents)
 
